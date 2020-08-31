@@ -77,5 +77,7 @@ fullJapan = arrayCalc(ages, isFullage.bind(this, 40));
 console.log(ages);
 console.log(fullJapan);
 
+var n = Math.random();
 
+console.log(n);
 
